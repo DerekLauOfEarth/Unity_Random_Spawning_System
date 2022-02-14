@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d9a7e83b60c542cfbb6cec6be309445, type: 3}
+  m_Name: SpawnerList
+  m_EditorClassIdentifier: 
+  EntitySpeed: -5
+  EntitySpawnList:
+  - EntityScpObj: {fileID: 11400000, guid: 29eb5c0f26e7044b9a158734c1a3642e, type: 2}
+    SpawnRate: 0.8
+  - EntityScpObj: {fileID: 11400000, guid: 2fd5f195c60334c77a987c5be92abad9, type: 2}
+    SpawnRate: 0.2
+  PickUpSpawnList:
+  - PickupScpObj: {fileID: 11400000, guid: a223fc38a1b7541999646fe2cb4b1562, type: 2}
+    SpawnRate: 0.75
+  - PickupScpObj: {fileID: 11400000, guid: 8a1a42458936a4d9b97bf8608cc3fce5, type: 2}
+    SpawnRate: 0.25

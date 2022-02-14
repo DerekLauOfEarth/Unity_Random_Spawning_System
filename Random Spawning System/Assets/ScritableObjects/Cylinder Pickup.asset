@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10629ff238e9d4a9f8a598d4737ce65e, type: 3}
+  m_Name: Cylinder Pickup
+  m_EditorClassIdentifier: 
+  PickupPrefab: {fileID: 4336156341814925338, guid: 38542bcd776d14712aa22e665b7587d5, type: 3}
+  PickupPooler: {fileID: 11400000, guid: eae3e9e93ed7746fdad5b0fbccdc8ce9, type: 2}

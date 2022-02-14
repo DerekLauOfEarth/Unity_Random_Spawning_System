@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10629ff238e9d4a9f8a598d4737ce65e, type: 3}
+  m_Name: Capsule Pickup
+  m_EditorClassIdentifier: 
+  PickupPrefab: {fileID: 8398658997745649864, guid: 18345edb111f649d8abd3cc75ab6e051, type: 3}
+  PickupPooler: {fileID: 11400000, guid: 875b442dc9deb4b2bbd915289859ca90, type: 2}
